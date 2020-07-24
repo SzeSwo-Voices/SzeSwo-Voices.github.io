@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : "SzeSwo之声"
+title   : "之声"
 description	:  "一个文史哲作品发布平台，欢迎来玩"
 
 
@@ -33,11 +33,11 @@ timezone: Asia/Shanghai
 ##############################
 author:
   type      : "organization"
-  name      : "SzeSwo Voices"
-  url       :
+  name      : "VOICESOF"
+  url       : #
   avatar    : # path or url of avatar image (square)
   bio       : # I am an amazing person.
-  email     :
+  email     : #
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -47,13 +47,13 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : "SzeSwo-Voices"
+  github    : "VOICESOF"
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: SzeSwo-Voices/SzeSwo-Voices.github.io
+repository: VOICESOF/VOICESOF.github.io
 repository_tree: master
 
 
