@@ -26,49 +26,29 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+之声是一个主打作品分享的网站，提倡开放的作品分享与思想交流。不欢迎传播仇恨和挑起争端，以及劣质作品，欢迎除了前三者之外的一切作品。
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+### 优势
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+- 无垄断和审查的平台，人人可用
+- 简洁优美的版面设计
+- 文章自动排版，需使用 Markdown 格式
+- 音视频分享，目前支持网易云、B站、油管、TED
+- RSS 订阅，获取作品更简单
 
-## Features
+### 致谢与版权
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- 之声由 [Tian Qi](https://github.com/kitian616) 开发的 [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) 项目修改而来，基于 [Jekyll](https://github.com/jekyll/jekyll) 网站引擎，托管在 [GitHub Pages](https://pages.github.com/) 平台。
+- 本站使用的开源软件及许可证：
+	1. [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)，[MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(TeXt))
+	2. [Jekyll](https://github.com/jekyll/jekyll)， [MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(Jekyll))
+- 用户上传的作品版权属于用户，请尊重作品末尾的许可证。如无许可证，则该作品默认保留一切权利。转载等版权相关的行为请先征得用户同意。
+- 本网站除作品之外的其余部分均以 [MIT 许可证](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE)发布。
 
-## Skins
+### 提示
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+本网站无法满足，也无意满足每个人对网站中作品的期待。所以如果你对本站上的任意作品感到不适，请你跳过它；如果你对本网站感到不适，请离开。根据 MIT 许可证，我们对本网站没有任何质保义务，也就是说，我们没有对网站内容进行审查的义务。
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+<!--如果你想对本网站作出攻击性行为，请你想一想结果
+- 攻击本站：本站基于 Jekyll，不存在任何数据库，攻击得不到有用信息；本站使用 Git 管理，意味着我们可能有无数的备份，无法通过攻击根除。
+- 举报本站：本站托管于 GitHub，意味着屏蔽本站可能需要屏蔽整个 GitHub，而 GitHub 上的开源软件（开源为近**90%**的软件提供了必需的依赖项）也会跟着遭殃；除此之外 GitHub 还是2900万公司和组织的协作平台。屏蔽 GitHub 所造成的损失不是你能承担的。-->
