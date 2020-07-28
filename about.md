@@ -28,7 +28,7 @@ key: page-about
 
 之声是一个主打作品分享的网站，提倡开放的作品分享与思想交流。
 
-我们不欢迎传播仇恨、挑起争端和劣质作品，欢迎除了这三者之外的一切作品。
+我们不欢迎传播仇恨、挑起争端，欢迎除了这两者之外的作品。
 
 ### 优势
 
@@ -42,11 +42,15 @@ key: page-about
 
 ### 致谢与版权
 
-- 之声由 [Tian Qi](https://github.com/kitian616) 开发的 [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) 项目修改而来，基于 [Jekyll](https://github.com/jekyll/jekyll) 网站引擎，托管在 [GitHub Pages](https://pages.github.com/) 平台。
-- 本站使用的开源软件及许可证：
-  1. [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)，[MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(TeXt))
-  2. [Jekyll](https://github.com/jekyll/jekyll)， [MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(Jekyll))
-- 作者上传的作品版权属于用户，请尊重作品末尾的许可证。如无许可证，则该作品默认保留一切权利。转载等版权相关的行为请先征得作者同意。
+之声由 [Tian Qi](https://github.com/kitian616) 开发的 [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme) 项目修改而来，基于 [Jekyll](https://github.com/jekyll/jekyll) 网站引擎，托管在 [GitHub Pages](https://pages.github.com/) 平台。
+
+本站使用的开源软件及许可证：
+
+1. [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)，[MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(TeXt))
+2. [Jekyll](https://github.com/jekyll/jekyll)， [MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(Jekyll))
+
+作者上传的作品版权属于作者，请尊重作品末尾的许可证提示。如无许可证提示，则该作品默认保留一切权利。转载等版权相关的行为请先征得作者同意。
+
 - 本网站除作品之外的其余部分以 [MIT 许可证](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE)发布。
 
 ### 提示
