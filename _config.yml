@@ -21,7 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://voicesof.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : "之声"
-description	:  "一个文史哲作品发布平台，欢迎来玩"
+description	:  "一个开放的作品发布平台，欢迎来玩"
 
 
 ## => Language and Timezone
