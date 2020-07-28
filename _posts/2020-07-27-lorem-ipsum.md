@@ -1,5 +1,6 @@
 ---
 layout: article
+author: VOICESOF
 title: Lorem Ipsum
 mode: immersive
 header:
