@@ -51,7 +51,7 @@ key: page-about
 
 作者上传的作品版权属于作者，请尊重作品末尾的许可证提示。如无许可证提示，则该作品默认保留一切权利。转载等版权相关的行为请先征得作者同意。
 
-- 本网站除作品之外的其余部分以 [MIT 许可证](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE)发布。
+本网站除**作品**之外的其余部分以 [MIT 许可证](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE)发布。
 
 ### 提示
 
