@@ -1,7 +1,7 @@
 author1:
-  type      : "organization"
-  name      : "author1"
-  url       : https://github.com/VOICESOF
+  type      : # "organization" or delete this element
+  name      : # "author1"
+  url       : # url of your personal site, e.g. https://github.com/VOICESOF
   avatar    : # path or url of avatar image (square)
   bio       : # I am an amazing person.
   email     : #
@@ -14,5 +14,5 @@ author1:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : "VOICESOF"
+  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
