@@ -116,7 +116,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -125,12 +125,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    clientID    : 19972e65ee1ae7a48669 # GitHub Application Client ID
+    clientSecret: 7f50f387e9d6fa9981ec07298b91a06aab5feeba # GitHub Application Client Secret
+    repository  : VOICESOF.github.io # GitHub repo
+    owner       : VOICESOF # GitHub repo owner
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST
+      - tttranquilooo
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
