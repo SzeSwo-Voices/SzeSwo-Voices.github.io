@@ -46,17 +46,13 @@ key: page-about
 
 本站使用的开源软件及许可证：
 
-1. [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)，[MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(TeXt))
-2. [Jekyll](https://github.com/jekyll/jekyll)， [MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE(Jekyll))
+1. [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)，[MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/COPYING/LICENSE(TeXt))
+2. [Jekyll](https://github.com/jekyll/jekyll)， [MIT 许可](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/COPYING/LICENSE(Jekyll))
 
 作者上传的作品版权属于作者，请尊重作品末尾的许可证提示。如无许可证提示，则该作品默认保留一切权利。转载等版权相关的行为请先征得作者同意。
 
-本网站除**作品**之外的其余部分以 [MIT 许可证](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/LICENSE)发布。
+本网站除**作品**之外的其余部分以 [MIT 许可证](https://github.com/VOICESOF/VOICESOF.github.io/blob/master/COPYING/LICENSE)发布。
 
 ### 提示
 
 本网站无法满足，也无意满足每个人对网站中作品的期待。所以如果你对本站上的任意作品感到不适，请你跳过它；如果你对本网站感到不适，请离开。根据 MIT 许可证，我们对本网站没有任何质保义务 ("WITHOUT WARRANTY OF **ANY KIND**")，也就是说，我们没有对网站内容进行审查的义务。
-
-<!--如果你想对本网站作出攻击性行为，请你想一想结果
-- 攻击本站：本站基于 Jekyll，不存在任何数据库，攻击得不到有用信息；本站使用 Git 管理，意味着我们可能有无数的备份，无法通过攻击根除。
-- 举报本站：本站托管于 GitHub，意味着屏蔽本站可能需要屏蔽整个 GitHub，而 GitHub 上的开源软件（开源为近**90%**的软件提供了必需的依赖项）也会跟着遭殃；除此之外 GitHub 还是2900万公司和组织的协作平台。屏蔽 GitHub 所造成的损失不是你能承担的。-->
