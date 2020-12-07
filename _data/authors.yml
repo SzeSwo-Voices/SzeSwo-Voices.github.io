@@ -16,3 +16,15 @@ author1:
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+
+chenxuying:
+  type: person
+  name: 除程疑
+  url: https://www.douban.com/people/143130567/
+
+Yuqi:
+  type: person
+  name: Yuqi
+  url: https://liscaw.wordpress.com/
+
+
